@@ -1,0 +1,16 @@
+Species: Arabidopsis thaliana
+
+Gene: FT (FLOWERING LOCUS T)
+Gene ID: AT1G6548
+
+Rank 1 target sequence and genomic location:
+Target sequence (20 bp): GGCAAACAGTGTATGCACCAG PAM: GGG
+Genomic location: Chr1:24333550 Strand: +
+
+One primer pair (genotyping primers):
+Forward (left) primer: TTACGAAAATCCAAGTCCCACT   Coordinates: Chr1:24333482–24333504
+Reverse (right) primer: TGACAATTGTAGAAAAACTGCGG   Coordinates: Chr1:24333634–24333656
+
+Expected phenotype: If the FT gene is knocked out, the plant would most likely flower later than expected
+or not at all. FT tells the plant when it is time to start flowering so without the plant stays in the growing
+stage longer.
